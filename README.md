@@ -42,4 +42,6 @@ Changes from the original design:
 
 These are a remix of OSBMX v2 designed by TheTrain and made in Fusion 360.  
 
-The changes were made to accomodate SiTong and similar sized key caps.  Follow the original guides for assembly.
+The changes were made to accomodate SiTong and similar sized key caps.  
+
+Follow the original guide for assembly.
