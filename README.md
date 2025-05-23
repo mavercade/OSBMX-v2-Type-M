@@ -12,7 +12,7 @@ I am not responsible for prints that do not turn out as intended or any damages 
 
 !!!WARNING!!!
 
-There are a nearly endless number of MX switches floating around out there.  For the purposes of this project I focused on Outemu switches.  While you may be able to use all sorts of other switches in these, I cannot guarantee that any other switches will work.  It is highly recommended to try a switch or two out to ensure proper operation before buying a ton of them.
+There are a nearly endless number of MX switches floating around out there.  While you may be able to use all sorts of other switches in these, I cannot guarantee that any other switches will work.  It is highly recommended to try a switch or two out to ensure proper operation before buying a ton of them.
 
 
 !!!WARNING!!!
