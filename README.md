@@ -1,5 +1,7 @@
 ## OSBMX v2 Type M - 24mm + 30mm - Remix of the Open Source Button MX v2 by TheTrain
-![OSBMX v2 01](Assets/OSBMX_v2_01.png)
+![alt text](https://github.com/mavercade/OSBMX-v2-Type-M/blob/main/Assets/OSBMX%20v2%20Type%20M%20on%20panel.png?raw=true "Type M panel mounted")
+![alt text](https://github.com/mavercade/OSBMX-v2-Type-M/blob/main/Assets/OSBMX%20v2%20Type%20M%20pressed.png?raw=true "Type M pressed")
+
 
 ---
 
