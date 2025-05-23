@@ -1,4 +1,4 @@
-## OSBMX v2 - 24mm + 30mm - Open Source Button MX v2
+## OSBMX v2 Type M - 24mm + 30mm - Remix of the Open Source Button MX v2 by TheTrain
 ![OSBMX v2 01](Assets/OSBMX_v2_01.png)
 ![OSBMX v2 04](Assets/OSBMX_v2_04.jpg)
 ![OSBMX v2 06](Assets/OSBMX_v2_06.png)
@@ -14,9 +14,6 @@ I am not responsible for prints that do not turn out as intended or any damages 
 
 There are a nearly endless number of MX switches floating around out there.  For the purposes of this project I focused on Outemu switches.  While you may be able to use all sorts of other switches in these, I cannot guarantee that any other switches will work.  It is highly recommended to try a switch or two out to ensure proper operation before buying a ton of them.
 
-!!!WARNING!!!
-
-These buttons are not compatible with SiTong caps.  I may work on a remix that is.
 
 !!!WARNING!!!
 
@@ -29,8 +26,6 @@ The v6 boards from the original OSBMX (with built in connector prongs) are no lo
 
 ## Attribution
 
-The following text must be included in any distribution of derivatives of this project or the boards. All links must also be included.
-
 Based on the OSBMX v2 by TheTrain.
 
 Copyright © 2025 [TheTrain](http://x.com/thetrain24)<br/>
@@ -38,7 +33,9 @@ Copyright © 2025 [TheTrain](http://x.com/thetrain24)<br/>
 [Licensed under CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Changes from the original design:
-  - list any changes you make here
+  - Lowered the height of the ring and main body to accomodate SiTong and similar key caps
+  - increased the space between the ring and main body by 0.2mm
+  - increased the clearance between the main body and nut by 0.2mm
 
 Anyone selling this commercially must include in the listing that this is an open source item, link to the original repo and include the copyright as well as the link to my X account.
 
@@ -46,39 +43,9 @@ Anyone selling this commercially must include in the listing that this is an ope
 
 ## Summary
 
-The OSBMX v2 was designed from scratch in Fusion360.  
+These are a remix of OSBMX v2 designed by TheTrain and made in Fusion 360.  
 
-Since the original OSBMX was released the arcade button landscape has changed.
-
-There are now much more affordable and high quality options available commercially like the SiTong MX and LP buttons.
-
-Over the past few years the cost of MJF and SLS have increased signifigantly through JLCPCB.
-
-As such, the OSBMX v2 is focused simply on 3D printing though home FDM printers.  These have not been tested through services like JLCPCB in materials like MJF, SLS or resin.  I may add some remixes that are more suitable to those materials in the future.
-
-These buttons have also been designed to print without the use of supports.  This cuts down on material waste and print time.
-
-If you are planning to use these with one of the PCBs included in the repo please be sure to research which switches will and will not work.  I am unable to answer questions on individual switch compatibility.
-
-Please note that these buttons can also be used without the circuit board as the main housing of the button will hold the MX switches just fine.  You can then use a hot swap connector directly or just solder to the MX switches.  In this configuration you can also use any type of MX switch even without the notch in them.
-
-A massive thank you to LayerShift (https://x.com/Layer_Shift) for helping get the Fusion360 model all cleaned up.
-
-
----
-
-## Board design choices
-
-There is a new PCB design for the OSBMX v2.
-
-The original PCBs from the OSBMX v1 will work just fine on the v2 (lets be honest, most of us have 100+ of these kicking around).
-
-The new PCB design combines the three most common methods of connection into one board:
-- 2.8mm prong connector
-- Solder pads
-- PH2.00mm 2pin connector
-
----
+The changes were made to accomodate SiTong and similar sized key caps.
 
 ## Assembly
 
@@ -171,28 +138,6 @@ The recommended print setting are to do 4-6 wall loops and then enough top and b
 You may need to adjust to achieve a good print on your own printer.  
 
 !!!Please note - I am not responcible for missprints or any costs incured from missprints!!!
-
----
-
-## Other stuff
-
-The original jig file should still work just fine if you need something to help with assembly of the 2.8mm connectors.  You can find it in the legacy folder.
-
-Please note that the jig does not do well printed in PLA and will melt during soldering after a few uses.  
-
-It is recommended to print in something like resin but please note that a resin print has not been tested.
-
-
----
-
-## Donations
-
-Every part of this project is open source, all prototyping costs were covered out of pocket.
-
-Donations are not necessary but always welcome!  All received donations go into trying new things and ordering new boards for this and other projects.
-
-https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
-
 
 ---
 
