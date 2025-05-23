@@ -1,8 +1,5 @@
 ## OSBMX v2 Type M - 24mm + 30mm - Remix of the Open Source Button MX v2 by TheTrain
 ![OSBMX v2 01](Assets/OSBMX_v2_01.png)
-![OSBMX v2 04](Assets/OSBMX_v2_04.jpg)
-![OSBMX v2 06](Assets/OSBMX_v2_06.png)
-![OSBMX v2 07](Assets/OSBMX_v2_07.JPG)
 
 ---
 
