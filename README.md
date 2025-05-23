@@ -33,8 +33,6 @@ Changes from the original design:
   - Lowered the height of the ring and main body to accomodate SiTong and similar key caps
   - increased the space between the ring and main body by 0.2mm
 
-Anyone selling this commercially must include in the listing that this is an open source item, link to the original repo and include the copyright as well as the link to my X account.
-
 ---
 
 ## Summary
