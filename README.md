@@ -25,6 +25,7 @@ Changes from the original design:
   - Lowered the height of the ring and main body to accomodate SiTong and similar key caps
   - increased the space between the ring and main body by 0.2mm
   - lowered the base for the switch on the main body to make the clips on the switch click in easier
+  - 3D printable key caps/plungers sized similar to SiTong's
 
 ![alt text](https://github.com/mavercade/OSBMX-v2-Type-M/blob/main/Assets/OSBMX%20v2%20Type%20M%20changes.png?raw=true "Picture of changes made")
 
