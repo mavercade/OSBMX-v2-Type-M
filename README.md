@@ -11,16 +11,6 @@ I am not responsible for prints that do not turn out as intended or any damages 
 
 !!!WARNING!!!
 
-There are a nearly endless number of MX switches floating around out there.  While you may be able to use all sorts of other switches in these, I cannot guarantee that any other switches will work.  It is highly recommended to try a switch or two out to ensure proper operation before buying a ton of them.
-
-
-!!!WARNING!!!
-
-The v6 boards from the original OSBMX (with built in connector prongs) are no longer supported due to multiple reports of the connectors breaking (very thin PCBs like to snap)
-
-!!!WARNING!!!
-
-
 ---
 
 ## Attribution
