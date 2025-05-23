@@ -32,8 +32,9 @@ Copyright © 2025 [TheTrain](http://x.com/thetrain24)<br/>
 Changes from the original design:
   - Lowered the height of the ring and main body to accomodate SiTong and similar key caps
   - increased the space between the ring and main body by 0.2mm
+  - lowered the base for the switch on the main body to make the clips on the switch click in easier
 
-Anyone selling this commercially must include in the listing that this is an open source item, link to the original repo and include the copyright as well as the link to my X account.
+![alt text](https://github.com/mavercade/OSBMX-v2-Type-M/blob/main/Assets/OSBMX%20v2%20Type%20M%20changes.png?raw=true "Picture of changes made")
 
 ---
 
@@ -41,4 +42,6 @@ Anyone selling this commercially must include in the listing that this is an ope
 
 These are a remix of OSBMX v2 designed by TheTrain and made in Fusion 360.  
 
-The changes were made to accomodate SiTong and similar sized key caps.  Follow the original guides for assembly.
+The changes were made to accomodate SiTong and similar sized key caps.  
+
+Follow the original guide for assembly.
